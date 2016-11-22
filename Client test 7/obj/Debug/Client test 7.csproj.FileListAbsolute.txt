@@ -1,0 +1,6 @@
+c:\users\isham\documents\visual studio 2015\Projects\client test 6\Client test 7\bin\Debug\Client test 7.exe.config
+c:\users\isham\documents\visual studio 2015\Projects\client test 6\Client test 7\bin\Debug\Client test 7.exe
+c:\users\isham\documents\visual studio 2015\Projects\client test 6\Client test 7\bin\Debug\Client test 7.pdb
+c:\users\isham\documents\visual studio 2015\Projects\client test 6\Client test 7\obj\Debug\Client test 7.csprojResolveAssemblyReference.cache
+c:\users\isham\documents\visual studio 2015\Projects\client test 6\Client test 7\obj\Debug\Client test 7.exe
+c:\users\isham\documents\visual studio 2015\Projects\client test 6\Client test 7\obj\Debug\Client test 7.pdb
